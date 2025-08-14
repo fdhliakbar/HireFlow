@@ -5,13 +5,14 @@
 ---
 
 ## Deskripsi
-HireFlow adalah platform modern untuk mengelola proses rekrutmen secara efisien dan terintegrasi.
+Aplikasi untuk melacak lowongan yang kamu apply + analisis CV kamu sesuai job posting
 
 ## Fitur Utama (Coming Soon)
-- Manajemen kandidat
-- Pelacakan proses rekrutmen
-- Integrasi dengan email dan kalender
-- Dashboard analitik
+
+- Auto-import job listing dari LinkedIn/Indeed
+- AI match score untuk tiap job
+- Resume builder + ATS checker
+- Calendar & reminder untuk interview
 
 ## Teknologi
 - Next.js
